@@ -6,4 +6,6 @@ catboost
 xgboost
 flask
 dill
+setuptools
+flask
 -e .
