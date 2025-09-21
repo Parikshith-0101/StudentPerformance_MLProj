@@ -4,4 +4,6 @@ numpy
 matplotlib
 catboost
 xgboost
-#-e .
+flask
+dill
+-e .
