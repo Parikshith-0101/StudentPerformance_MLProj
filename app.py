@@ -95,6 +95,6 @@ def predict_datapoint():
         except Exception as e:
             raise CustomException(e,sys)
 
-
+#local host is 0.0.0.0
 if __name__ == "__main__":
     app.run(host="0.0.0.0", debug=True)
