@@ -1,11 +1,11 @@
-# from flask import Flask,request,render_template
-# import numpy as np
-# import pandas as pd
+# from flask import Flask,request,render_template this is comment 
+# import numpy as np. this is numpy
+# import pandas as pd. this is panda
 
 # from sklearn.preprocessing import StandardScaler
 # from src.pipeline.predict_pipeline import CustomData,PredictPipeline
 
-# application=Flask(__name__)
+# application=Flask(__name__) flask flask flak
 
 # app=application
 
